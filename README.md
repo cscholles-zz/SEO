@@ -1,2 +1,2 @@
 # SEO
-Simple scripts for SEOs
+Simple python scripts for SEOs
