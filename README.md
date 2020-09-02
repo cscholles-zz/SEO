@@ -11,6 +11,6 @@ Started my own python and pandas cookbook, focused on SEO data analysis without 
 *Installing google gcp to run local:*
 
 * pip3 install --upgrade google-cloud-bigquery
-* pip3 install --upgrade google-cloud-storage
-* pip3 install --upgrade google-api-python-client
+
+[Send GSC data to BigQuery - simple python script; very useful](https://github.com/benpowis/search-console-bq)
 
