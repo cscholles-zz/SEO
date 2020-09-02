@@ -7,10 +7,10 @@ Simple python scripts for SEOs
 Started my own python and pandas cookbook, focused on SEO data analysis without excel. The idea is to register useful scripts that I use with more frequency in my daily activies.
 
 
-[DRAFT - Another step by step for running scripts and sending data to BQ]
-Installing google gcp to run local:
+*[DRAFT - Another step by step for running scripts and sending data to BQ]*
+*Installing google gcp to run local:*
 
-pip3 install --upgrade google-cloud-bigquery
-pip3 install --upgrade google-cloud-storage
-pip3 install --upgrade google-api-python-client
+* pip3 install --upgrade google-cloud-bigquery
+* pip3 install --upgrade google-cloud-storage
+* pip3 install --upgrade google-api-python-client
 
