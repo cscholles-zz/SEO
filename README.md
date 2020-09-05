@@ -8,9 +8,17 @@ Started my own python and pandas cookbook, focused on SEO data analysis without 
 
 
 *3.[DRAFT - Another step by step for running scripts and sending data to BQ]*
-*Installing google gcp to run local:*
+</br>*Installing google gcp to run local:*
 
 * pip3 install --upgrade google-cloud-bigquery
 
-[Send GSC data to BigQuery - simple python script; very useful](https://github.com/benpowis/search-console-bq)
+[Send GSC data to BigQuery - simple python script developed by Ben Powis; very useful](https://github.com/benpowis/search-console-bq)
+
+
+
+
+</br></br></br>
+
+Curated and developed by [Caroline Scholles](https://carolinescholles.com/)
+</br>Curadoria e desenvolvimento por [Caroline Scholles](https://carolinescholles.com/br/)
 
